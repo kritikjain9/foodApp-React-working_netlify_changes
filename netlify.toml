@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "*"
+  to = "https://foodapp-backend-b38s.onrender.com/:splat"
+  status = 200
+  force = true
+  headers = {Access-Control-Allow-Origin = "*"}
+ 
